@@ -1,4 +1,4 @@
-<h1>Tricolor Awards</h1>
+<h1>Tricolor Awards</h1> <img src="https://logodetimes.com/wp-content/uploads/gremio.png" width="100" heigth="100">
 <br>
 <b> A sala de troféus virtual do Grêmio Foot-ball Porto Alegrense! </b>
 <br>
