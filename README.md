@@ -7,5 +7,4 @@
 <br>
 <p><i>Dedicado a todos os torcedores fanáticos por esse clube</i></p> 
 <br>
-<br>
 <img src="https://logodownload.org/wp-content/uploads/2017/02/gremio-logo-escudo-2.png" width="40" heigth="40">
