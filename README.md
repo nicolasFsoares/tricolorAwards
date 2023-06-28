@@ -1,4 +1,4 @@
-<h1>Tricolor Awards  <img src="https://logodownload.org/wp-content/uploads/2017/02/gremio-logo-escudo-2.png" width="30" heigth="30"></h1>
+<h1>Tricolor Awards  <img src="https://logodownload.org/wp-content/uploads/2017/02/gremio-logo-escudo-2.png" width="40" heigth="40"></h1>
 <br>
 <b> A sala de troféus virtual do Grêmio Foot-ball Porto Alegrense! </b>
 <br>
