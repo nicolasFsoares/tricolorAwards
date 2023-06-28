@@ -1,4 +1,4 @@
-<h1><img src="https://w7.pngwing.com/pngs/47/946/png-transparent-trophy-gold-cup-trophy-gold-and-brown-trophy-image-file-formats-medal-metal.png" width="25" heigth="25"> Tricolor Awards <img src="https://w7.pngwing.com/pngs/47/946/png-transparent-trophy-gold-cup-trophy-gold-and-brown-trophy-image-file-formats-medal-metal.png" width="25" heigth="25"></h1>
+<h1><img src="https://static.vecteezy.com/system/resources/previews/009/315/016/original/winner-trophy-in-flat-style-free-png.png" width="25" heigth="25"> Tricolor Awards <img src="https://static.vecteezy.com/system/resources/previews/009/315/016/original/winner-trophy-in-flat-style-free-png.png" width="25" heigth="25"></h1>
 <br>
 <b> A sala de troféus virtual do Grêmio Foot-ball Porto Alegrense! </b>
 <br>
