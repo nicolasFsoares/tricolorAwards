@@ -21,4 +21,4 @@ window.addEventListener('load', function (event) {
     }
 
 });
-window.addEventListener("scroll", reveal);
+// window.addEventListener("scroll", reveal);
